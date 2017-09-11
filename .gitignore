@@ -1,3 +1,7 @@
+# Loom build files
+.loom
+/build/
+
 # Maven build files
 target
 *.log
